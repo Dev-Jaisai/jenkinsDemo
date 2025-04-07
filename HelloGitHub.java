@@ -1,5 +1,5 @@
 public class HelloGitHub {
     public static void main(String[] args) {
-        System.out.println("Hi from GitHub new changes");
+        System.out.println("Hi from GitHub new changes")
     }
 }
